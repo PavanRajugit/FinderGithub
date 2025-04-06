@@ -5,7 +5,7 @@ This project is a GitHub Profile Viewer, designed to display information about G
 
 ## Screenshots
 
-![Screenshot1](/Users/pavanraju/Desktop/AI-Project/github-profile-viewer/home-page.png)
+![Screenshot1](home.png)
 *Caption: Main page displaying user profile information and repository list.*
 
 ## Features
